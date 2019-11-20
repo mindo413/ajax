@@ -35,7 +35,7 @@
 		var url = "/ajax/ajax_02_ok.jsp" + "?" + query;
 		console.log(url);
 
-		// 요철 Method
+		// 요청 Method
 		var method = "GET";
 
 		// AJAX 객체의 상태 변화에 따라 호출될 callback 함수 지정
